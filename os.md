@@ -8,7 +8,7 @@
     4. Select **Launchpad & Dock**.
     5. Find **Show Launchpad**.
     6. Set your preferred shortcut (for example: `Cmd + Q`).
-    
+
   `Cmd + Q`
 
 - **Close window**  
@@ -27,4 +27,4 @@
   Press `Caps Lock`
 
 
-### Win Keyboard Shortcuts
+### Windows Keyboard Shortcuts
